@@ -2,7 +2,6 @@ import { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { register } from 'redux/auth/operations';
 import { Box, Button, Container, TextField } from '@mui/material';
-import { Height } from '@mui/icons-material';
 
 const Register = () => {
   const dispatch = useDispatch();

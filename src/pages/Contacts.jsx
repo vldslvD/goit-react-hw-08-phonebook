@@ -2,7 +2,7 @@ import { Filter } from 'components/Filter/Filter';
 import { ContactList } from 'components/ContactList/ContactList';
 import { useState } from 'react';
 import { NewContactModal } from 'components/NewContactModal/NewContactModal';
-import { Box, Fab, Typography } from '@mui/material';
+import { Fab, Typography } from '@mui/material';
 import AddIcon from '@mui/icons-material/Add';
 
 const Contacts = () => {

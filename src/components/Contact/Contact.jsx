@@ -1,4 +1,4 @@
-import { Button } from './Contact.styled';
+
 import { useDispatch } from 'react-redux';
 import { contactsOperations } from 'redux/contacts';
 import DeleteIcon from '@mui/icons-material/Delete';
